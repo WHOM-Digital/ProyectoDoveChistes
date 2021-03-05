@@ -7,3 +7,18 @@
 	Note: This is custom css.
 
 **********************************************************************************/
+
+@font-face {
+	font-family: HelveticaNeue-light;
+	src: url(/helvetica/HelveticaNeueLight.otf);
+  }
+
+  @font-face {
+	font-family: HelveticaNeue-ultraLight;
+	src: url(/helvetica/HelveticaNeueUltaLight.otf);
+  }
+
+  @font-face {
+	font-family: HelveticaNeue-bold;
+	src: url(/helvetica/HelveticaNeueBold.otf);
+  }
