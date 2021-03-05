@@ -9,22 +9,37 @@
 **********************************************************************************/
 
 @font-face {
-	font-family: "HelveticaNeue-light";
+	font-family: 'HelveticaNeue-light';
 	src: url(/helvetica/HelveticaNeueLight.otf);
 	font-weight: normal;
 	font-style: normal;
   }
 
   @font-face {
-	font-family: "HelveticaNeue-ultraLight";
+	font-family: 'HelveticaNeue-ultraLight';
 	src: url(/helvetica/HelveticaNeueUltaLight.otf);
 	font-weight: lighter;
 	font-style: normal;
   }
 
   @font-face {
-	font-family: "HelveticaNeue-bold";
+	font-family: 'HelveticaNeue-bold';
 	src: url(/helvetica/HelveticaNeueBold.otf);
-	font-weight: bold;
-	font-style: normal;
+	
   }
+
+  @media only screen and (min-width: 375px){
+
+	#imgFooter{
+		max-width: 30%;
+	}
+
+}
+
+@media only screen and (max-width: 375px){
+
+	#imgFooter{
+		max-width: 65%;
+	}
+
+}
