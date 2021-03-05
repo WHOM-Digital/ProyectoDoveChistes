@@ -19076,7 +19076,7 @@ Has Center
 /* Type Hover Thumbnail */
 .type-portfolio-thumbnail {
   position: relative;
-  padding: 75px 75px 75px 35px; }
+  padding: 75px 15px 75px 15px; }
   @media only screen and (min-width: 768px) and (max-width: 991px) {
     .type-portfolio-thumbnail {
       padding-top: 0; } }
