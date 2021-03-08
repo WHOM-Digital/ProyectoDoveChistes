@@ -31,7 +31,7 @@
   @media only screen and (min-width: 375px){
 
 	#imgFooter{
-		max-width: 30%;
+		max-width: 35%;
 	}
 
 }
@@ -39,7 +39,7 @@
 @media only screen and (max-width: 375px){
 
 	#imgFooter{
-		max-width: 65%;
+		max-width: 70%;
 	}
 
 }
