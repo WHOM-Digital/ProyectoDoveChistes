@@ -30,16 +30,34 @@
 
   @media only screen and (min-width: 375px){
 
-	#imgFooter{
-		max-width: 35%;
+	#imgFooter1{
+		max-width: 50%;
 	}
 
 }
 
 @media only screen and (max-width: 375px){
 
-	#imgFooter{
+	#imgFooter1{
+		max-width: 100%;
+	}
+
+}
+
+@media only screen and (min-width: 375px){
+
+	#imgFooter2{
+		max-width: 30%;
+		border-radius: 50%;
+	}
+
+}
+
+@media only screen and (max-width: 375px){
+
+	#imgFooter2{
 		max-width: 70%;
+		border-radius: 50%;
 	}
 
 }
